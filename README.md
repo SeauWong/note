@@ -4,5 +4,5 @@
 
 # Kafka
 
-1. [kafka安装](https://blog.csdn.net/u010283894/article/details/77106159)
+1. [kafka安装](https://www.cnblogs.com/flower1990/p/7466882.html)
 2. [启动错误: 找不到或无法加载主类 Files\Java\jdk1.8.0_101\lib\dt.jar;C:\Program](https://blog.csdn.net/cx2932350/article/details/78870135)

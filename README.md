@@ -10,3 +10,6 @@
 # Git
 
 1. [Git图解](https://learngitbranching.js.org/)
+
+# Nginx
+1. [windows下nginx的安装及使用](https://www.cnblogs.com/jiangwangxiang/p/8481661.html)

@@ -33,3 +33,7 @@ public void userAdd(User user) {
 
 ### @Transactional的timeout
 * 事务的超时时间：Transaction时间太长的话，将它停止掉。默认-1
+
+# mybatis
+
+[Mybatis Update操作返回值问题](https://www.cnblogs.com/jpfss/p/8918315.html)

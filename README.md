@@ -37,3 +37,6 @@ public void userAdd(User user) {
 # mybatis
 
 [Mybatis Update操作返回值问题](https://www.cnblogs.com/jpfss/p/8918315.html)
+
+# maven
+[把jar包添加到本地仓库](https://blog.csdn.net/lvdaan/article/details/79760976)

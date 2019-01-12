@@ -40,3 +40,28 @@ public void userAdd(User user) {
 
 # maven
 [把jar包添加到本地仓库](https://blog.csdn.net/lvdaan/article/details/79760976)
+
+# The Relationship Between Database and Schema
+###Mysql
+
+```mermaid
+graph TD
+DataBase=Schema-->Tables...
+```
+
+
+
+### Orable
+
+```mermaid
+graph TD
+DataBase-->User1
+DataBase-->User2
+DataBase-->User3
+Schema1-->Tables1...
+Schema2-->Tables2...
+Schema3-->Tables3...
+User1-->Schema1
+User2-->Schema2
+User3-->Schema3
+```

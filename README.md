@@ -66,3 +66,6 @@ User3-->Schema3
 
 # java8
 [java8 java.time包](https://wen866595.iteye.com/blog/1958475)
+
+# 计算机体系结构
+[MESI](https://blog.csdn.net/unei66/article/details/25738977)
